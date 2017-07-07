@@ -1,0 +1,9 @@
+/bin/
+/gradle/
+/target/
+/build.gradle
+/gradlew
+/gradlew.bat
+.settings
+/logs/
+/testedb*
